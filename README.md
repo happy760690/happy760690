@@ -3,7 +3,7 @@
 - 📫 How to reach me: 微信: glitz_ma
 - ⚡ Fun fact: Google的主页之所以如此简洁，是因为创始人不懂HTML。
 
-How to reach me: wechat       
+How to reach me: WeChat       
 <img width="300px" src="https://www.mamingjuan.cn/assets/img/webwxgetmsgimg.c60a935f.jpg" alt="加我微信">
 
 <!--
