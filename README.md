@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📫 How to reach me: 微信: glitz_ma
+- ⚡ Fun fact: Google的主页之所以如此简洁，是因为创始人不懂HTML。
+
+[我的博客](https://mamingjuan.cn)
+
 <!--
 **happy760690/happy760690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
