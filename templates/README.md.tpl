@@ -6,7 +6,7 @@
 [我的博客](https://mamingjuan.cn)
 
 ~🍺 Open to Remote/Intern Job Opportunities~
-.
+.  
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 20}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
