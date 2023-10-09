@@ -5,21 +5,21 @@
 [我的博客](https://mamingjuan.cn)
 
 #### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Check out my recent stars
-{{range recentStars 5}}
+{{range recentStars 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 15}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 👯 Check out my recent followers
-{{range followers 5}}
+{{range followers 15}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
