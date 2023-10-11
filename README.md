@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (today)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 week ago)
 - [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. (6 months ago)
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs (6 months ago)
@@ -29,7 +30,6 @@
 - [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient. (2 years ago)
 - [fex-team/fis3-demo](https://github.com/fex-team/fis3-demo) - fis3 demo (2 years ago)
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API (2 years ago)
-- [jimuyouyou/node-interview-questions](https://github.com/jimuyouyou/node-interview-questions) - Node.js面试题，侧重后端应用与对Node核心的理解 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
