@@ -10,7 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 day ago)
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (2 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 weeks ago)
 - [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. (6 months ago)
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs (6 months ago)
