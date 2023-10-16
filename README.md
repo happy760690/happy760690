@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (today)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (today)
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (3 days ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (5 days ago)
@@ -29,7 +30,6 @@
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (2 years ago)
 - [WICG/time-to-interactive](https://github.com/WICG/time-to-interactive) - Repository for hosting TTI specification and discussions around it. (2 years ago)
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2 (2 years ago)
-- [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient. (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
