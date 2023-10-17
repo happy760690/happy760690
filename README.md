@@ -6,15 +6,15 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 weeks ago)
+- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (3 weeks ago)
 
 #### ⭐ Check out my recent stars
 
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (today)
-- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (today)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (today)
-- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (3 days ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (5 days ago)
+- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (1 day ago)
+- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (1 day ago)
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 day ago)
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (4 days ago)
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (6 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 weeks ago)
 - [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. (6 months ago)
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs (6 months ago)
@@ -33,7 +33,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/vue3-element-plus-component](https://github.com/happy760690/vue3-element-plus-component) -  (today)
+- [happy760690/vue3-element-plus-component](https://github.com/happy760690/vue3-element-plus-component) -  (1 day ago)
 
 #### 👯 Check out my recent followers
 
