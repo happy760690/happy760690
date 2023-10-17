@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content. (today)
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (1 day ago)
 - [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (1 day ago)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 day ago)
@@ -29,7 +30,6 @@
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2) (2 years ago)
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html) (2 years ago)
 - [nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) - nightscout web monitor (2 years ago)
-- [WICG/time-to-interactive](https://github.com/WICG/time-to-interactive) - Repository for hosting TTI specification and discussions around it. (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
