@@ -10,13 +10,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content. (1 day ago)
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (2 days ago)
-- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (2 days ago)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (2 days ago)
-- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (5 days ago)
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content. (2 days ago)
+- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (3 days ago)
+- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (3 days ago)
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (3 days ago)
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (6 days ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 week ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 weeks ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 weeks ago)
 - [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. (6 months ago)
 - [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs (6 months ago)
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 (10 months ago)
@@ -33,7 +33,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/vue3-element-plus-component](https://github.com/happy760690/vue3-element-plus-component) -  (2 days ago)
+- [happy760690/vue3-element-plus-component](https://github.com/happy760690/vue3-element-plus-component) -  (3 days ago)
 
 #### 👯 Check out my recent followers
 
