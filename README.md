@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 (today)
 - [joaomoreno/deemon](https://github.com/joaomoreno/deemon) - Run a process in the background and attach to it (1 day ago)
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. (1 day ago)
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content. (3 days ago)
@@ -29,7 +30,6 @@
 - [Qquanwei/trackpoint-tools](https://github.com/Qquanwei/trackpoint-tools) - Javascript 无痕埋点辅助工具库(React,Vue)，track everywhere, (2 years ago)
 - [l-hammer/v-track](https://github.com/l-hammer/v-track) - 🕹 A manual tracking decoupling plugin based on Vue directive / 一个基于Vue指令实现的埋点解耦插件~ (2 years ago)
 - [surmon-china/vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - @quilljs editor component for @vuejs(2) (2 years ago)
-- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html) (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
