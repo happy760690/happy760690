@@ -10,6 +10,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [d-koppenhagen/vscode-code-review](https://github.com/d-koppenhagen/vscode-code-review) - Create a code review with all your comments in one file (today)
+- [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo (today)
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. (4 days ago)
 - [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings (4 days ago)
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 (1 week ago)
@@ -28,8 +30,6 @@
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous (1 year ago)
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 (1 year ago)
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast. (2 years ago)
-- [raychenfj/vue-uweb](https://github.com/raychenfj/vue-uweb) - vue 友盟统计埋点插件 (2 years ago)
-- [Qquanwei/trackpoint-tools](https://github.com/Qquanwei/trackpoint-tools) - Javascript 无痕埋点辅助工具库(React,Vue)，track everywhere, (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
