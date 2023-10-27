@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [JakHuang/form-generator-plugin](https://github.com/JakHuang/form-generator-plugin) - 将form-generator封装成vscode插件 (today)
 - [d-koppenhagen/vscode-code-review](https://github.com/d-koppenhagen/vscode-code-review) - Create a code review with all your comments in one file (today)
 - [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo (today)
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. (4 days ago)
@@ -29,7 +30,6 @@
 - [fullcalendar/fullcalendar-examples](https://github.com/fullcalendar/fullcalendar-examples) - Simple example projects for FullCalendar (1 year ago)
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous (1 year ago)
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 (1 year ago)
-- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast. (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
