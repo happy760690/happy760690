@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (today)
 - [JakHuang/form-generator-plugin](https://github.com/JakHuang/form-generator-plugin) - 将form-generator封装成vscode插件 (3 days ago)
 - [d-koppenhagen/vscode-code-review](https://github.com/d-koppenhagen/vscode-code-review) - Create a code review with all your comments in one file (3 days ago)
 - [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo (3 days ago)
@@ -29,7 +30,6 @@
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 (10 months ago)
 - [fullcalendar/fullcalendar-examples](https://github.com/fullcalendar/fullcalendar-examples) - Simple example projects for FullCalendar (1 year ago)
 - [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous (1 year ago)
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
