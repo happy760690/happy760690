@@ -6,37 +6,42 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (1 month ago)
+- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (3 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [NoemieGrf/ElectronTemplate](https://github.com/NoemieGrf/ElectronTemplate) -  (today)
-- [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code (4 days ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (4 days ago)
-- [JakHuang/form-generator-plugin](https://github.com/JakHuang/form-generator-plugin) - 将form-generator封装成vscode插件 (1 week ago)
-- [d-koppenhagen/vscode-code-review](https://github.com/d-koppenhagen/vscode-code-review) - Create a code review with all your comments in one file (1 week ago)
-- [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo (1 week ago)
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. (1 week ago)
-- [theia-ide/theia-apps](https://github.com/theia-ide/theia-apps) - Theia applications examples - docker images, desktop apps, packagings (1 week ago)
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 (2 weeks ago)
-- [joaomoreno/deemon](https://github.com/joaomoreno/deemon) - Run a process in the background and attach to it (2 weeks ago)
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. (2 weeks ago)
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content. (2 weeks ago)
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code (2 weeks ago)
-- [ErikXu/power-ci](https://github.com/ErikXu/power-ci) -  (2 weeks ago)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (2 weeks ago)
-- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (3 weeks ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 month ago)
-- [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. (6 months ago)
-- [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs (6 months ago)
-- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 (10 months ago)
+- [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (today)
+- [bpmn-io/vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Display BPMN 2.0 diagrams in Vue.js (4 days ago)
+- [bpmn-io/bpmn-js-example-custom-elements](https://github.com/bpmn-io/bpmn-js-example-custom-elements) - An example of how to support custom elements in bpmn-js while ensuring BPMN 2.0 compatibility. (4 days ago)
+- [bpmn-io/bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - bpmn-js, nyan cat style :rainbow: :cat: (4 days ago)
+- [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Examples how to use bpmn-js (4 days ago)
+- [bpmn-io/bpmn-js-properties-panel](https://github.com/bpmn-io/bpmn-js-properties-panel) - A properties panel for bpmn-js. (4 days ago)
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler. (5 days ago)
+- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. (5 days ago)
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x &#43; TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。 (5 days ago)
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 week ago)
+- [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs. (1 week ago)
+- [diafygi/webcrypto-examples](https://github.com/diafygi/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
+- [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML (1 month ago)
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 month ago)
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 month ago)
+- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom&#39;s iconic One Dark theme for Visual Studio Code (1 month ago)
+- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code&#39;s Remote features, and you want to quickly identify your editor. (1 month ago)
+- [wangyunduo/vscode-ext-color-highlight](https://github.com/wangyunduo/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor (1 month ago)
+- [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable (1 month ago)
+- [vibornoff/webcrypto-examples](https://github.com/vibornoff/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
+- [vibornoff/webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) - Web Cryptography API shim for legacy browsers (1 month ago)
+- [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators (1 month ago)
+- [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation. (1 month ago)
+- [meshesha/PPTXjs](https://github.com/meshesha/PPTXjs) - jquery plugin for convertation pptx to html  (2 months ago)
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/vue3-element-plus-component](https://github.com/happy760690/vue3-element-plus-component) -  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [nakshatra05](https://github.com/nakshatra05)
 - [dawidolko](https://github.com/dawidolko)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
@@ -47,7 +52,6 @@
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
-- [singleton11](https://github.com/singleton11)
 - [Irfanrida](https://github.com/Irfanrida)
 - [manjunath5496](https://github.com/manjunath5496)
 - [algebric](https://github.com/algebric)
