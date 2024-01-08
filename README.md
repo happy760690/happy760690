@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (today)
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (today)
 - [bpmn-io/vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Display BPMN 2.0 diagrams in Vue.js (4 days ago)
 - [bpmn-io/bpmn-js-example-custom-elements](https://github.com/bpmn-io/bpmn-js-example-custom-elements) - An example of how to support custom elements in bpmn-js while ensuring BPMN 2.0 compatibility. (4 days ago)
@@ -34,7 +35,6 @@
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators (1 month ago)
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation. (1 month ago)
 - [meshesha/PPTXjs](https://github.com/meshesha/PPTXjs) - jquery plugin for convertation pptx to html  (2 months ago)
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
