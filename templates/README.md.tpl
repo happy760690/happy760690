@@ -10,7 +10,7 @@
 {{- end}}
 
 #### ⭐ Check out my recent stars
-{{range recentStars 60}}
+{{range recentStars 25}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
