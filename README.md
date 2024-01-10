@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [PL-FE/bpmn-doc](https://github.com/PL-FE/bpmn-doc) - ⚽ Bpmn.js 使用 以及总结常用 API (today)
 - [bpmn-io/bpmn-js-example-custom-controls](https://github.com/bpmn-io/bpmn-js-example-custom-controls) - An example how to add custom editor controls to bpmn-js (2 days ago)
 - [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (2 days ago)
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (2 days ago)
@@ -34,7 +35,6 @@
 - [vibornoff/webcrypto-examples](https://github.com/vibornoff/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
 - [vibornoff/webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) - Web Cryptography API shim for legacy browsers (1 month ago)
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators (1 month ago)
-- [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
