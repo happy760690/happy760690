@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [bpmn-io/bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read and write BPMN 2.0 XML from JavaScript. (today)
 - [PL-FE/bpmn-doc](https://github.com/PL-FE/bpmn-doc) - ⚽ Bpmn.js 使用 以及总结常用 API (1 day ago)
 - [bpmn-io/bpmn-js-example-custom-controls](https://github.com/bpmn-io/bpmn-js-example-custom-controls) - An example how to add custom editor controls to bpmn-js (3 days ago)
 - [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (3 days ago)
@@ -34,7 +35,6 @@
 - [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable (1 month ago)
 - [vibornoff/webcrypto-examples](https://github.com/vibornoff/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
 - [vibornoff/webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) - Web Cryptography API shim for legacy browsers (1 month ago)
-- [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
