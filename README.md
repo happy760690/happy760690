@@ -10,11 +10,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [bpmn-io/bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read and write BPMN 2.0 XML from JavaScript. (3 days ago)
-- [PL-FE/bpmn-doc](https://github.com/PL-FE/bpmn-doc) - ⚽ Bpmn.js 使用 以及总结常用 API (4 days ago)
-- [bpmn-io/bpmn-js-example-custom-controls](https://github.com/bpmn-io/bpmn-js-example-custom-controls) - An example how to add custom editor controls to bpmn-js (6 days ago)
-- [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (6 days ago)
-- [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (6 days ago)
+- [bpmn-io/bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read and write BPMN 2.0 XML from JavaScript. (4 days ago)
+- [PL-FE/bpmn-doc](https://github.com/PL-FE/bpmn-doc) - ⚽ Bpmn.js 使用 以及总结常用 API (5 days ago)
+- [bpmn-io/bpmn-js-example-custom-controls](https://github.com/bpmn-io/bpmn-js-example-custom-controls) - An example how to add custom editor controls to bpmn-js (1 week ago)
+- [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (1 week ago)
+- [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (1 week ago)
 - [bpmn-io/vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Display BPMN 2.0 diagrams in Vue.js (1 week ago)
 - [bpmn-io/bpmn-js-example-custom-elements](https://github.com/bpmn-io/bpmn-js-example-custom-elements) - An example of how to support custom elements in bpmn-js while ensuring BPMN 2.0 compatibility. (1 week ago)
 - [bpmn-io/bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - bpmn-js, nyan cat style :rainbow: :cat: (1 week ago)
