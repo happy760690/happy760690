@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [bpmn-io/properties-panel-async-example](https://github.com/bpmn-io/properties-panel-async-example) - Example properties panel extension with asynchronous data. (today)
 - [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -  (today)
 - [bpmn-io/properties-panel](https://github.com/bpmn-io/properties-panel) - Library for creating bpmn-io properties panels. (today)
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器 (1 day ago)
@@ -34,7 +35,6 @@
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML (1 month ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 month ago)
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 month ago)
-- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom&#39;s iconic One Dark theme for Visual Studio Code (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
