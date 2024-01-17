@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -  (today)
 - [bpmn-io/properties-panel](https://github.com/bpmn-io/properties-panel) - Library for creating bpmn-io properties panels. (today)
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器 (1 day ago)
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 (1 day ago)
@@ -34,7 +35,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 month ago)
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 month ago)
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom&#39;s iconic One Dark theme for Visual Studio Code (1 month ago)
-- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code&#39;s Remote features, and you want to quickly identify your editor. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
