@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [leooneone/ai-form](https://github.com/leooneone/ai-form) - AiForm是一个开源的表单设计/解析器。基于对开源项目form-generator和扩展项目approvalFlow学习和复用，使用 vue3.x &#43; CompositionAPI setup 语法糖 &#43; typescript &#43; vite &#43; element plus 技术重构而成，适配手机、平板、pc ，希望减少工作量，帮助大家实现快速开发。 (today)
 - [bpmn-io/properties-panel-async-example](https://github.com/bpmn-io/properties-panel-async-example) - Example properties panel extension with asynchronous data. (2 days ago)
 - [vform666/variant-form3-vite](https://github.com/vform666/variant-form3-vite) -  (2 days ago)
 - [bpmn-io/properties-panel](https://github.com/bpmn-io/properties-panel) - Library for creating bpmn-io properties panels. (2 days ago)
@@ -34,7 +35,6 @@
 - [diafygi/webcrypto-examples](https://github.com/diafygi/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML (1 month ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 month ago)
-- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
