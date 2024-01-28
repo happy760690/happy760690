@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [dropbox/incubator-superset-internal](https://github.com/dropbox/incubator-superset-internal) -  (today)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (today)
 - [leooneone/ai-form](https://github.com/leooneone/ai-form) - AiForm是一个开源的表单设计/解析器。基于对开源项目form-generator和扩展项目approvalFlow学习和复用，使用 vue3.x &#43; CompositionAPI setup 语法糖 &#43; typescript &#43; vite &#43; element plus 技术重构而成，适配手机、平板、pc ，希望减少工作量，帮助大家实现快速开发。 (1 week ago)
 - [bpmn-io/properties-panel-async-example](https://github.com/bpmn-io/properties-panel-async-example) - Example properties panel extension with asynchronous data. (1 week ago)
@@ -34,7 +35,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 month ago)
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs. (1 month ago)
 - [diafygi/webcrypto-examples](https://github.com/diafygi/webcrypto-examples) - Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/ (1 month ago)
-- [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
