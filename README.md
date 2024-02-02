@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (today)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！ (today)
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It&#39;s a very fast and efficient glob library for Node.js (today)
 - [dropbox/incubator-superset-internal](https://github.com/dropbox/incubator-superset-internal) -  (5 days ago)
@@ -34,7 +35,6 @@
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler. (1 month ago)
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. (1 month ago)
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x &#43; TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。 (1 month ago)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
