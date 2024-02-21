@@ -42,7 +42,6 @@
 #### 👯 Check out my recent followers
 
 - [warmice71](https://github.com/warmice71)
-- [dougkalash](https://github.com/dougkalash)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [nakshatra05](https://github.com/nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
@@ -56,3 +55,4 @@
 - [esin](https://github.com/esin)
 - [Irfanrida](https://github.com/Irfanrida)
 - [manjunath5496](https://github.com/manjunath5496)
+- [algebric](https://github.com/algebric)
