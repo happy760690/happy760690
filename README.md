@@ -10,7 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (5 days ago)
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (6 days ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (3 weeks ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！ (3 weeks ago)
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It&#39;s a very fast and efficient glob library for Node.js (3 weeks ago)
