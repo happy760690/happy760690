@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (today)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (2 weeks ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (1 month ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！ (1 month ago)
@@ -34,7 +35,6 @@
 - [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Examples how to use bpmn-js (2 months ago)
 - [bpmn-io/bpmn-js-properties-panel](https://github.com/bpmn-io/bpmn-js-properties-panel) - A properties panel for bpmn-js. (2 months ago)
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler. (2 months ago)
-- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
