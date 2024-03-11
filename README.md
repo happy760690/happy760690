@@ -10,6 +10,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (today)
+- [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (today)
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (5 days ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (3 weeks ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (1 month ago)
@@ -33,8 +35,6 @@
 - [bpmn-io/bpmn-js-example-custom-elements](https://github.com/bpmn-io/bpmn-js-example-custom-elements) - An example of how to support custom elements in bpmn-js while ensuring BPMN 2.0 compatibility. (2 months ago)
 - [bpmn-io/bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - bpmn-js, nyan cat style :rainbow: :cat: (2 months ago)
 - [bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Examples how to use bpmn-js (2 months ago)
-- [bpmn-io/bpmn-js-properties-panel](https://github.com/bpmn-io/bpmn-js-properties-panel) - A properties panel for bpmn-js. (2 months ago)
-- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
