@@ -10,6 +10,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [message163/wujie-demo](https://github.com/message163/wujie-demo) - 视频教程配套文档 (today)
+- [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架 (today)
 - [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (today)
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (1 week ago)
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (1 week ago)
@@ -33,8 +35,6 @@
 - [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (2 months ago)
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (2 months ago)
 - [bpmn-io/vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Display BPMN 2.0 diagrams in Vue.js (2 months ago)
-- [bpmn-io/bpmn-js-example-custom-elements](https://github.com/bpmn-io/bpmn-js-example-custom-elements) - An example of how to support custom elements in bpmn-js while ensuring BPMN 2.0 compatibility. (2 months ago)
-- [bpmn-io/bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - bpmn-js, nyan cat style :rainbow: :cat: (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
