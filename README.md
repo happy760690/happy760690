@@ -15,7 +15,7 @@
 - [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (2 weeks ago)
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (3 weeks ago)
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (3 weeks ago)
-- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (4 weeks ago)
+- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (1 month ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (1 month ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (2 months ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！ (2 months ago)
