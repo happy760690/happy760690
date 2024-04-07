@@ -10,6 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [micro-zoe/micro-app-chrome-plugin](https://github.com/micro-zoe/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (today)
 - [message163/wujie-demo](https://github.com/message163/wujie-demo) - 视频教程配套文档 (2 weeks ago)
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架 (2 weeks ago)
 - [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (2 weeks ago)
@@ -34,7 +35,6 @@
 - [bpmn-io/bpmn-js-example-custom-controls](https://github.com/bpmn-io/bpmn-js-example-custom-controls) - An example how to add custom editor controls to bpmn-js (3 months ago)
 - [jgraph/mxgraph-js](https://github.com/jgraph/mxgraph-js) - JS portion of mxGraph (3 months ago)
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library (3 months ago)
-- [bpmn-io/vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Display BPMN 2.0 diagrams in Vue.js (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
