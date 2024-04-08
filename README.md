@@ -45,7 +45,7 @@
 - [nakshatra05](https://github.com/nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
-- [AYIDouble](https://github.com/AYIDouble)
+- [IDouble](https://github.com/IDouble)
 - [PremChapagain](https://github.com/PremChapagain)
 - [margin120](https://github.com/margin120)
 - [King-Mufasa](https://github.com/King-Mufasa)
