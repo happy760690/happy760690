@@ -10,7 +10,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [micro-zoe/micro-app-chrome-plugin](https://github.com/micro-zoe/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (5 days ago)
+- [micro-zoe/micro-app-chrome-plugin](https://github.com/micro-zoe/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (6 days ago)
 - [message163/wujie-demo](https://github.com/message163/wujie-demo) - 视频教程配套文档 (3 weeks ago)
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架 (3 weeks ago)
 - [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (3 weeks ago)
