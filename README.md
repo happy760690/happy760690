@@ -42,7 +42,7 @@
 #### 👯 Check out my recent followers
 
 - [warmice71](https://github.com/warmice71)
-- [nakshatra05](https://github.com/nakshatra05)
+- [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
 - [IDouble](https://github.com/IDouble)
