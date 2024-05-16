@@ -41,6 +41,7 @@
 
 #### 👯 Check out my recent followers
 
+- [zhangqingUU](https://github.com/zhangqingUU)
 - [dougkalash](https://github.com/dougkalash)
 - [warmice71](https://github.com/warmice71)
 - [Nakshatra05](https://github.com/Nakshatra05)
@@ -55,4 +56,3 @@
 - [esin](https://github.com/esin)
 - [Irfanrida](https://github.com/Irfanrida)
 - [manjunath5496](https://github.com/manjunath5496)
-- [algebric](https://github.com/algebric)
