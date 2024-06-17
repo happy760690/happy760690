@@ -41,7 +41,6 @@
 
 #### 👯 Check out my recent followers
 
-- [TonhoDB](https://github.com/TonhoDB)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [warmice71](https://github.com/warmice71)
@@ -56,3 +55,4 @@
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
 - [Irfanrida](https://github.com/Irfanrida)
+- [manjunath5496](https://github.com/manjunath5496)
