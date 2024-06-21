@@ -41,6 +41,7 @@
 
 #### 👯 Check out my recent followers
 
+- [kazhuravlev](https://github.com/kazhuravlev)
 - [TonhoDB](https://github.com/TonhoDB)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [zhangqingUU](https://github.com/zhangqingUU)
@@ -55,4 +56,3 @@
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
-- [Irfanrida](https://github.com/Irfanrida)
