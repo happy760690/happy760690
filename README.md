@@ -6,7 +6,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (8 months ago)
+- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (9 months ago)
 
 #### ⭐ Check out my recent stars
 
