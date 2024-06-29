@@ -42,7 +42,6 @@
 #### 👯 Check out my recent followers
 
 - [x3ric](https://github.com/x3ric)
-- [SysAdminHeal](https://github.com/SysAdminHeal)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [warmice71](https://github.com/warmice71)
@@ -56,3 +55,4 @@
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
+- [Irfanrida](https://github.com/Irfanrida)
