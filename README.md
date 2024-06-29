@@ -41,6 +41,7 @@
 
 #### 👯 Check out my recent followers
 
+- [x3ric](https://github.com/x3ric)
 - [kazhuravlev](https://github.com/kazhuravlev)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
@@ -55,4 +56,3 @@
 - [King-Mufasa](https://github.com/King-Mufasa)
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
 - [metinilhan](https://github.com/metinilhan)
-- [esin](https://github.com/esin)
