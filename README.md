@@ -23,7 +23,7 @@
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (5 months ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 (5 months ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (6 months ago)
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It&#39;s fast！ (6 months ago)
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It&#39;s fast！ (6 months ago)
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It&#39;s a very fast and efficient glob library for Node.js (6 months ago)
 - [dropbox/incubator-superset-internal](https://github.com/dropbox/incubator-superset-internal) -  (6 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (6 months ago)
