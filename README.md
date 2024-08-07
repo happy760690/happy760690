@@ -42,7 +42,6 @@
 #### 👯 Check out my recent followers
 
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
-- [x3ric](https://github.com/x3ric)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [warmice71](https://github.com/warmice71)
 - [Nakshatra05](https://github.com/Nakshatra05)
@@ -56,3 +55,4 @@
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
 - [Irfanrida](https://github.com/Irfanrida)
+- [manjunath5496](https://github.com/manjunath5496)
