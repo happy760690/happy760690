@@ -52,7 +52,7 @@
 - [IDouble](https://github.com/IDouble)
 - [PremChapagain](https://github.com/PremChapagain)
 - [margin120](https://github.com/margin120)
-- [King-Mufasa](https://github.com/King-Mufasa)
+- [adrian263129](https://github.com/adrian263129)
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
 - [metinilhan](https://github.com/metinilhan)
 - [esin](https://github.com/esin)
