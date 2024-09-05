@@ -33,7 +33,7 @@
 - [bpmn-io/properties-panel](https://github.com/bpmn-io/properties-panel) - Library for creating bpmn-io properties panels. (7 months ago)
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器 (7 months ago)
 - [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 (7 months ago)
-- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 (7 months ago)
+- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 (7 months ago)
 - [bpmn-io/bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read and write BPMN 2.0 XML from JavaScript. (7 months ago)
 
 #### 👷 Check out what I'm currently working on
