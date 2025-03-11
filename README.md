@@ -44,6 +44,7 @@
 
 #### 👯 Check out my recent followers
 
+- [Xmosha](https://github.com/Xmosha)
 - [psemicol](https://github.com/psemicol)
 - [mowhn](https://github.com/mowhn)
 - [idimetrix](https://github.com/idimetrix)
@@ -58,4 +59,3 @@
 - [IDouble](https://github.com/IDouble)
 - [margin120](https://github.com/margin120)
 - [am263129](https://github.com/am263129)
-- [Patricia-Silva1](https://github.com/Patricia-Silva1)
