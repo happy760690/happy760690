@@ -44,6 +44,7 @@
 
 #### 👯 Check out my recent followers
 
+- [psemicol](https://github.com/psemicol)
 - [mowhn](https://github.com/mowhn)
 - [idimetrix](https://github.com/idimetrix)
 - [mustafacagri](https://github.com/mustafacagri)
@@ -58,4 +59,3 @@
 - [margin120](https://github.com/margin120)
 - [am263129](https://github.com/am263129)
 - [Patricia-Silva1](https://github.com/Patricia-Silva1)
-- [metinilhan](https://github.com/metinilhan)
