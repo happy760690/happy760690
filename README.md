@@ -39,8 +39,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (today)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 days ago)
-- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (6 days ago)
 
 #### 👯 Check out my recent followers
 
