@@ -11,7 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 day ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (2 days ago)
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (2 months ago)
 - [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (2 months ago)
 - [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (2 months ago)
@@ -39,8 +39,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (today)
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (2 days ago)
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (1 day ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile / vue h5 / vue vant / vue web app / 移动端最佳实践 (3 days ago)
 
 #### 👯 Check out my recent followers
 
