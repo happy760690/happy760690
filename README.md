@@ -11,10 +11,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (6 days ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 week ago)
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (2 months ago)
-- [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (2 months ago)
-- [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (2 months ago)
+- [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (3 months ago)
+- [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (3 months ago)
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation (3 months ago)
 - [hukaibaihu/vue-org-tree](https://github.com/hukaibaihu/vue-org-tree) - A simple organization tree based on Vue2.x (9 months ago)
 - [KennethanCeyer/metric-parser](https://github.com/KennethanCeyer/metric-parser) - :scroll: AST-based advanced mathematical parser written by Typescript. (9 months ago)
@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (today)
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (1 day ago)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue3 mobile / vue3 h5 / vue3 vant / vue3 web app / vue3 移动端最佳实践 (1 week ago)
 
 #### 👯 Check out my recent followers
