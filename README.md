@@ -7,7 +7,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (3 weeks ago)
-- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (1 year ago)
+- [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (1 day ago)
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (2 days ago)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue3 mobile / vue3 h5 / vue3 vant / vue3 web app / vue3 移动端最佳实践 (1 week ago)
 
 #### 👯 Check out my recent followers
