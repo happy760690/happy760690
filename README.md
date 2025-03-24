@@ -46,8 +46,6 @@
 
 - [nullptrException100](https://github.com/nullptrException100)
 - [K1rsN7](https://github.com/K1rsN7)
-- [Xmosha](https://github.com/Xmosha)
-- [psemicol](https://github.com/psemicol)
 - [mowhn](https://github.com/mowhn)
 - [idimetrix](https://github.com/idimetrix)
 - [mustafacagri](https://github.com/mustafacagri)
@@ -59,3 +57,5 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
 - [IDouble](https://github.com/IDouble)
+- [margin120](https://github.com/margin120)
+- [am263129](https://github.com/am263129)
