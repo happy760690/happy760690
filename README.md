@@ -45,7 +45,6 @@
 #### 👯 Check out my recent followers
 
 - [BEPb](https://github.com/BEPb)
-- [murapadev](https://github.com/murapadev)
 - [K1rsN7](https://github.com/K1rsN7)
 - [0vm](https://github.com/0vm)
 - [nullptrException100](https://github.com/nullptrException100)
@@ -59,3 +58,4 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
+- [IDouble](https://github.com/IDouble)
