@@ -3,7 +3,7 @@
 - 📫 How to reach me: Telegram [@mamingjuan](https://t.me/mamingjuan)
 
 [我的博客(http://mamingjuan.cn)](http://mamingjuan.cn)
-
+[我的博客(https://github.com/glitzma)](https://github.com/glitzma)
 #### 🔨 Check out my recent pull requests
 
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 month ago)
@@ -39,6 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (3 weeks ago)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted mobile template / vue mobile, vue h5, vue vant, vue3 mobile, vue3 h5, vue3 vant, vue 移动端模板, vue3 移动端模板 (4 weeks ago)
 
 #### 👯 Check out my recent followers
