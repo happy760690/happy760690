@@ -2,8 +2,8 @@
 
 - 📫 How to reach me: Telegram [@mamingjuan](https://t.me/mamingjuan)
 
-[我的博客(http://mamingjuan.cn)](http://mamingjuan.cn)
-[我的博客(https://github.com/glitzma)](https://github.com/glitzma)
+- [我的博客(http://mamingjuan.cn)](http://mamingjuan.cn)
+- [我的github(https://github.com/glitzma)](https://github.com/glitzma)
 #### 🔨 Check out my recent pull requests
 
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 month ago)
