@@ -44,7 +44,6 @@
 
 #### 👯 Check out my recent followers
 
-- [K1rsN7](https://github.com/K1rsN7)
 - [nullptrException100](https://github.com/nullptrException100)
 - [mowhn](https://github.com/mowhn)
 - [idimetrix](https://github.com/idimetrix)
@@ -59,3 +58,4 @@
 - [IDouble](https://github.com/IDouble)
 - [margin120](https://github.com/margin120)
 - [am263129](https://github.com/am263129)
+- [Patricia-Silva1](https://github.com/Patricia-Silva1)
