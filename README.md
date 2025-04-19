@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (today)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (3 days ago)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients (4 weeks ago)
 - [AirPowerTeam/AirPower4T](https://github.com/AirPowerTeam/AirPower4T) - 🔥🔥🔥AirPower4T 是一个基于 Vue3 TypeScript Element Plus Vite 的开发基础库，使用面向对象、装饰器、Hooks等开发模式，内置了数据模型转换、表格表单装饰器配置、加解密和编码解码、网络请求、权限管理等常见后台功能以及页面组件，助力后台类系统的前端开发效率，同时保障了优雅的代码质量。 (4 weeks ago)
@@ -35,7 +36,6 @@
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (1 year ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast! (1 year ago)
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It&#39;s a very fast and efficient glob library for Node.js (1 year ago)
-- [dropbox/incubator-superset-internal](https://github.com/dropbox/incubator-superset-internal) -  (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
