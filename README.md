@@ -11,7 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (6 days ago)
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (1 week ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients (1 month ago)
 - [AirPowerTeam/AirPower4T](https://github.com/AirPowerTeam/AirPower4T) - 🔥🔥🔥AirPower4T 是一个基于 Vue3 TypeScript Element Plus Vite 的开发基础库，使用面向对象、装饰器、Hooks等开发模式，内置了数据模型转换、表格表单装饰器配置、加解密和编码解码、网络请求、权限管理等常见后台功能以及页面组件，助力后台类系统的前端开发效率，同时保障了优雅的代码质量。 (1 month ago)
