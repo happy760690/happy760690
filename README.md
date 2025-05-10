@@ -11,12 +11,12 @@
 
 #### ⭐ Check out my recent stars
 
-- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (2 weeks ago)
+- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (3 weeks ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (3 weeks ago)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients (1 month ago)
 - [AirPowerTeam/AirPower-Web](https://github.com/AirPowerTeam/AirPower-Web) - 🔥🔥🔥AirPower-Web 是一个基于 Vue3 TypeScript Element Plus Vite 的开发基础库，使用面向对象、装饰器、Hooks等开发模式，内置了数据模型转换、表格表单装饰器配置、加解密和编码解码、网络请求、权限管理等常见后台功能以及页面组件，助力后台类系统的前端开发效率，同时保障了优雅的代码质量。 (1 month ago)
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js (1 month ago)
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 month ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (2 months ago)
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (4 months ago)
 - [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (4 months ago)
 - [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (4 months ago)
