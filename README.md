@@ -32,7 +32,7 @@
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (1 year ago)
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (1 year ago)
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (1 year ago)
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted admin template | vue admin | vue template | vue3 admin | vue3 template | vue 后台 | vue 模板 | vue3 后台 | vue3 模板 (1 year ago)
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted admin template | vue admin | vue template | vue3 admin | vue3 template | vue 后台 | vue 模板 | vue3 后台 | vue3 模板 | vue3 系统 (1 year ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (1 year ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast! (1 year ago)
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It&#39;s a very fast and efficient glob library for Node.js (1 year ago)
