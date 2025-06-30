@@ -44,7 +44,6 @@
 
 #### 👯 Check out my recent followers
 
-- [BEPb](https://github.com/BEPb)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
@@ -59,3 +58,4 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
+- [IDouble](https://github.com/IDouble)
