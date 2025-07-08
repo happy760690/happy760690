@@ -40,10 +40,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [glitzma/glitzma.github.io](https://github.com/glitzma/glitzma.github.io) -  (3 months ago)
-- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted Vue3 mobile template | Vue Mobile | Vue H5 | Vue Vant | Vue3 Mobile | Vue3 H5 | Vue3 Vant | Vue 移动端模板 | Vue3 移动端模板 (3 months ago)
+- [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted Vue3 mobile template | Vue Mobile | Vue H5 | Vue Vant | Vue3 Mobile | Vue3 H5 | Vue3 Vant | Vue 移动端模板 | Vue3 移动端模板 (4 months ago)
 
 #### 👯 Check out my recent followers
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
@@ -58,4 +59,3 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [V1nni00](https://github.com/V1nni00)
-- [IDouble](https://github.com/IDouble)
