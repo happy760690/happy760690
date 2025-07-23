@@ -45,7 +45,6 @@
 #### 👯 Check out my recent followers
 
 - [filedonkey](https://github.com/filedonkey)
-- [oluiscabral](https://github.com/oluiscabral)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
@@ -59,3 +58,4 @@
 - [warmice71](https://github.com/warmice71)
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
+- [V1nni00](https://github.com/V1nni00)
