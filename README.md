@@ -11,7 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (3 weeks ago)
+- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (4 weeks ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (3 months ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (3 months ago)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients (4 months ago)
@@ -33,7 +33,7 @@
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (1 year ago)
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (1 year ago)
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) - Make Web Components easier and powerful!😘 (1 year ago)
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (1 year ago)
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (2 years ago)
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template (2 years ago)
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It&#39;s fast! (2 years ago)
 
