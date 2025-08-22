@@ -44,6 +44,7 @@
 
 #### 👯 Check out my recent followers
 
+- [StefanFlorian94](https://github.com/StefanFlorian94)
 - [BEPb](https://github.com/BEPb)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
@@ -58,4 +59,3 @@
 - [warmice71](https://github.com/warmice71)
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
-- [V1nni00](https://github.com/V1nni00)
