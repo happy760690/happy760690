@@ -44,6 +44,7 @@
 
 #### 👯 Check out my recent followers
 
+- [onamfc](https://github.com/onamfc)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [maicro24](https://github.com/maicro24)
@@ -58,4 +59,3 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [warmice71](https://github.com/warmice71)
-- [Nakshatra05](https://github.com/Nakshatra05)
