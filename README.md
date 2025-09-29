@@ -26,7 +26,7 @@
 - [KennethanCeyer/metric-parser](https://github.com/KennethanCeyer/metric-parser) - :scroll: AST-based advanced mathematical parser written by Typescript. (1 year ago)
 - [tibetty/unescapeHtml](https://github.com/tibetty/unescapeHtml) - A utility function to unescape a string containing legally-html-escaped entities to the plain text (1 year ago)
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 (1 year ago)
-- [jd-opensource/micro-app-chrome-plugin](https://github.com/jd-opensource/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (1 year ago)
+- [jd-opensource/micro-app-chrome-plugin](https://github.com/jd-opensource/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (2 years ago)
 - [message163/wujie-demo](https://github.com/message163/wujie-demo) - 视频教程配套文档 (2 years ago)
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架 (2 years ago)
 - [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (2 years ago)
