@@ -46,7 +46,6 @@
 
 - [onamfc](https://github.com/onamfc)
 - [sphinxzerd](https://github.com/sphinxzerd)
-- [kamilmeliksahyorulmazlar](https://github.com/kamilmeliksahyorulmazlar)
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
@@ -59,3 +58,4 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [warmice71](https://github.com/warmice71)
+- [Nakshatra05](https://github.com/Nakshatra05)
