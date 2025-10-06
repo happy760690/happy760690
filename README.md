@@ -52,7 +52,7 @@
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
 - [nullptrException100](https://github.com/nullptrException100)
-- [mowhn](https://github.com/mowhn)
+- [OcDo-Lab](https://github.com/OcDo-Lab)
 - [idimetrix](https://github.com/idimetrix)
 - [mustafacagri](https://github.com/mustafacagri)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
