@@ -11,7 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [yunyi1895/You-Dont-Know-JS-zh](https://github.com/yunyi1895/You-Dont-Know-JS-zh) - 《你不知道的 JavaScript（上中下卷）》中文 (today)
+- [yunyi1895/You-Dont-Know-JS-zh](https://github.com/yunyi1895/You-Dont-Know-JS-zh) - 《你不知道的 JavaScript（上中下卷）》中文 (1 day ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (4 months ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (7 months ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (7 months ago)
