@@ -43,6 +43,7 @@
 
 #### 👯 Check out my recent followers
 
+- [rodrigogalura](https://github.com/rodrigogalura)
 - [S4IL21](https://github.com/S4IL21)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [maicro24](https://github.com/maicro24)
@@ -57,4 +58,3 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zhangqingUU](https://github.com/zhangqingUU)
 - [Nakshatra05](https://github.com/Nakshatra05)
-- [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
