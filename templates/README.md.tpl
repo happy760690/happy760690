@@ -3,7 +3,7 @@
 - 📫 How to reach me: Telegram [@mamingjuan](https://t.me/mamingjuan)
 
 - [我的博客(http://mamingjuan.cn)](http://mamingjuan.cn)
-- [我的github(https://github.com/glitzma)](https://github.com/glitzma)
+
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
