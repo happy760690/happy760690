@@ -11,9 +11,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (today)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (6 days ago)
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (6 days ago)
+- [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 day ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 week ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (6 months ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (9 months ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (9 months ago)
@@ -39,8 +39,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/Multi-tenant-SaaS-Dashboard](https://github.com/happy760690/Multi-tenant-SaaS-Dashboard) - A B2B SaaS platform that helps teams manage projects, users, and analytics in one place. (today)
-- [happy760690/learnUni-app](https://github.com/happy760690/learnUni-app) -  (3 days ago)
+- [happy760690/Multi-tenant-SaaS-Dashboard](https://github.com/happy760690/Multi-tenant-SaaS-Dashboard) - A B2B SaaS platform that helps teams manage projects, users, and analytics in one place. (1 day ago)
+- [happy760690/learnUni-app](https://github.com/happy760690/learnUni-app) -  (4 days ago)
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted Vue3 mobile template | Vue Mobile | Vue H5 | Vue Vant | Vue3 Mobile | Vue3 H5 | Vue3 Vant | Vue 移动端模板 | Vue3 移动端模板 (10 months ago)
 
 #### 👯 Check out my recent followers
