@@ -45,7 +45,6 @@
 
 #### 👯 Check out my recent followers
 
-- [BEPb](https://github.com/BEPb)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [S4IL21](https://github.com/S4IL21)
 - [sphinxzerd](https://github.com/sphinxzerd)
@@ -60,3 +59,4 @@
 - [mustafacagri](https://github.com/mustafacagri)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zhangqingUU](https://github.com/zhangqingUU)
+- [Nakshatra05](https://github.com/Nakshatra05)
