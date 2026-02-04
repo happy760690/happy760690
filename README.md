@@ -12,15 +12,15 @@
 #### ⭐ Check out my recent stars
 
 - [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 week ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 week ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 weeks ago)
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (2 weeks ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (6 months ago)
 - [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (9 months ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (9 months ago)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients (10 months ago)
 - [AirPowerTeam/AirPower-Web](https://github.com/AirPowerTeam/AirPower-Web) - 🔥🔥🔥AirPower-Web 是一个基于 Vue3 TypeScript Element Plus Vite 的开发基础库，使用面向对象、装饰器、Hooks等开发模式，内置了数据模型转换、表格表单装饰器配置、加解密和编码解码、网络请求、权限管理等常见后台功能以及页面组件，助力后台类系统的前端开发效率，同时保障了优雅的代码质量。 (10 months ago)
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js (10 months ago)
-- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (10 months ago)
+- [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (11 months ago)
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (1 year ago)
 - [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (1 year ago)
 - [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (1 year ago)
