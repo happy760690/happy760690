@@ -11,6 +11,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (today)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (today)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (today)
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (today)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Fast, Sharp &amp; Reliable Agentic Intelligence (1 day ago)
 - [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 month ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
@@ -31,11 +36,6 @@
 - [tibetty/unescapeHtml](https://github.com/tibetty/unescapeHtml) - A utility function to unescape a string containing legally-html-escaped entities to the plain text (2 years ago)
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 (2 years ago)
 - [jd-opensource/micro-app-chrome-plugin](https://github.com/jd-opensource/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (2 years ago)
-- [message163/wujie-demo](https://github.com/message163/wujie-demo) - 视频教程配套文档 (2 years ago)
-- [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架 (2 years ago)
-- [woai3c/mini-single-spa](https://github.com/woai3c/mini-single-spa) - 一个微前端框架教学项目 (2 years ago)
-- [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js (2 years ago)
-- [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
