@@ -11,6 +11,9 @@
 
 #### ⭐ Check out my recent stars
 
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (today)
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (today)
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (today)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (today)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (today)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (today)
@@ -33,9 +36,6 @@
 - [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation (1 year ago)
 - [hukaibaihu/vue-org-tree](https://github.com/hukaibaihu/vue-org-tree) - A simple organization tree based on Vue2.x (2 years ago)
 - [KennethanCeyer/metric-parser](https://github.com/KennethanCeyer/metric-parser) - :scroll: AST-based advanced mathematical parser written by Typescript. (2 years ago)
-- [tibetty/unescapeHtml](https://github.com/tibetty/unescapeHtml) - A utility function to unescape a string containing legally-html-escaped entities to the plain text (2 years ago)
-- [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 (2 years ago)
-- [jd-opensource/micro-app-chrome-plugin](https://github.com/jd-opensource/micro-app-chrome-plugin) - micro-app-chrome-plugin是基于京东零售推出的一款为micro-app框架而开发的chrome插件，旨在方便开发者对微前端进行数据查看以及调试,提升工作效率。 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
