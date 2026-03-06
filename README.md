@@ -46,6 +46,7 @@
 
 #### 👯 Check out my recent followers
 
+- [adelburieva](https://github.com/adelburieva)
 - [Ben-Scr](https://github.com/Ben-Scr)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [S4IL21](https://github.com/S4IL21)
@@ -60,4 +61,3 @@
 - [mustafacagri](https://github.com/mustafacagri)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [zhangqingUU](https://github.com/zhangqingUU)
-- [Nakshatra05](https://github.com/Nakshatra05)
