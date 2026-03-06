@@ -46,6 +46,9 @@
 
 #### 👯 Check out my recent followers
 
+- [RichardTang-Aden](https://github.com/RichardTang-Aden)
+- [TimothyZhang7](https://github.com/TimothyZhang7)
+- [vincentjiang777](https://github.com/vincentjiang777)
 - [adelburieva](https://github.com/adelburieva)
 - [Ben-Scr](https://github.com/Ben-Scr)
 - [rodrigogalura](https://github.com/rodrigogalura)
@@ -58,6 +61,3 @@
 - [Connor9994](https://github.com/Connor9994)
 - [nullptrException100](https://github.com/nullptrException100)
 - [idimetrix](https://github.com/idimetrix)
-- [mustafacagri](https://github.com/mustafacagri)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [zhangqingUU](https://github.com/zhangqingUU)
