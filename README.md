@@ -11,9 +11,12 @@
 
 #### ⭐ Check out my recent stars
 
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (1 day ago)
+- [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (today)
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (today)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (today)
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (today)
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (today)
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (1 day ago)
-- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (1 day ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (1 day ago)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (1 day ago)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (1 day ago)
@@ -33,9 +36,6 @@
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (1 year ago)
 - [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (1 year ago)
 - [LiangCY/questionnaire](https://github.com/LiangCY/questionnaire) - 问卷调查系统 (1 year ago)
-- [mdn/css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation (1 year ago)
-- [hukaibaihu/vue-org-tree](https://github.com/hukaibaihu/vue-org-tree) - A simple organization tree based on Vue2.x (2 years ago)
-- [KennethanCeyer/metric-parser](https://github.com/KennethanCeyer/metric-parser) - :scroll: AST-based advanced mathematical parser written by Typescript. (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
