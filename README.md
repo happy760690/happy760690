@@ -11,6 +11,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (today)
+- [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (today)
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (today)
 - [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (1 day ago)
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 day ago)
@@ -34,8 +36,6 @@
 - [AirPowerTeam/AirPower-Web](https://github.com/AirPowerTeam/AirPower-Web) - 🔥🔥🔥AirPower-Web 是一个基于 Vue3 TypeScript Element Plus Vite 的开发基础库，使用面向对象、装饰器、Hooks等开发模式，内置了数据模型转换、表格表单装饰器配置、加解密和编码解码、网络请求、权限管理等常见后台功能以及页面组件，助力后台类系统的前端开发效率，同时保障了优雅的代码质量。 (11 months ago)
 - [ts-macro/ts-macro](https://github.com/ts-macro/ts-macro) - A VSCode plugin to define TS(X) macro powered by Volar.js (11 months ago)
 - [aiscriptdev/aiscript](https://github.com/aiscriptdev/aiscript) - AIScript is a unique combination of interpreter programming language and web framework, both written in Rust, designed to help developers build AI applications effortlessly.  (1 year ago)
-- [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (1 year ago)
-- [surveyjs/code-examples](https://github.com/surveyjs/code-examples) - Examples of SurveyJS configuration and usage. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
