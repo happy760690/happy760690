@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (today)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (today)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (today)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (today)
@@ -35,10 +36,10 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 month ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配 (7 months ago)
-- [WICG/webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications (10 months ago)
 
 #### 👷 Check out what I'm currently working on
 
+- [happy760690/chatbot](https://github.com/happy760690/chatbot) -  (today)
 - [happy760690/AI-Chat](https://github.com/happy760690/AI-Chat) - AI Chat (3 days ago)
 - [happy760690/Multi-tenant-SaaS-Dashboard](https://github.com/happy760690/Multi-tenant-SaaS-Dashboard) - A B2B SaaS platform that helps teams manage projects, users, and analytics in one place. (1 month ago)
 - [happy760690/learnUni-app](https://github.com/happy760690/learnUni-app) -  (1 month ago)
