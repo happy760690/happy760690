@@ -11,14 +11,14 @@
 
 #### ⭐ Check out my recent stars
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (4 days ago)
-- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (5 days ago)
-- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (6 days ago)
-- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (6 days ago)
-- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (6 days ago)
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (6 days ago)
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (6 days ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (6 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 days ago)
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (6 days ago)
+- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (1 week ago)
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (1 week ago)
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (1 week ago)
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (1 week ago)
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (1 week ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (1 week ago)
 - [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (1 week ago)
 - [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (1 week ago)
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (1 week ago)
@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/chatbot](https://github.com/happy760690/chatbot) -  (6 days ago)
+- [happy760690/chatbot](https://github.com/happy760690/chatbot) -  (1 week ago)
 - [happy760690/AI-Chat](https://github.com/happy760690/AI-Chat) - AI Chat (1 week ago)
 - [happy760690/Multi-tenant-SaaS-Dashboard](https://github.com/happy760690/Multi-tenant-SaaS-Dashboard) - A B2B SaaS platform that helps teams manage projects, users, and analytics in one place. (1 month ago)
 - [happy760690/learnUni-app](https://github.com/happy760690/learnUni-app) -  (1 month ago)
