@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (today)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 days ago)
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (1 week ago)
@@ -35,11 +36,10 @@
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier. (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Fast, Sharp &amp; Reliable Agentic Intelligence (1 week ago)
-- [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/nextjs](https://github.com/happy760690/nextjs) -  (today)
+- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (today)
 
 #### 👯 Check out my recent followers
 
