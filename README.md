@@ -39,6 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [happy760690/next-blog](https://github.com/happy760690/next-blog) -  (today)
 - [glitzma/vercel-blog](https://github.com/glitzma/vercel-blog) -  (1 day ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (1 day ago)
 
