@@ -45,6 +45,7 @@
 
 #### 👯 Check out my recent followers
 
+- [helallao](https://github.com/helallao)
 - [RichardTang-Aden](https://github.com/RichardTang-Aden)
 - [TimothyZhang7](https://github.com/TimothyZhang7)
 - [vincentjiang777](https://github.com/vincentjiang777)
@@ -59,4 +60,3 @@
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
 - [nullptrException100](https://github.com/nullptrException100)
-- [idimetrix](https://github.com/idimetrix)
