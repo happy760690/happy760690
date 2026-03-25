@@ -11,8 +11,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (today)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (5 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (6 days ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (1 week ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (1 week ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 week ago)
