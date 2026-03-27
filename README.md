@@ -11,7 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (2 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 week ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (1 week ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (1 week ago)
@@ -27,11 +27,11 @@
 - [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (2 weeks ago)
 - [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (2 weeks ago)
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (2 weeks ago)
-- [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (2 weeks ago)
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (2 weeks ago)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (2 weeks ago)
-- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (2 weeks ago)
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (2 weeks ago)
+- [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (3 weeks ago)
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (3 weeks ago)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (3 weeks ago)
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (3 weeks ago)
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (3 weeks ago)
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (3 weeks ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (3 weeks ago)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (3 weeks ago)
