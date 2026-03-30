@@ -11,13 +11,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (5 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (6 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 week ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (1 week ago)
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (1 week ago)
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 weeks ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (2 weeks ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
-- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (2 weeks ago)
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (3 weeks ago)
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (3 weeks ago)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (3 weeks ago)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (3 weeks ago)
@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (1 week ago)
+- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
