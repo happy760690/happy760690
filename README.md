@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (today)
+- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (1 day ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (2 weeks ago)
 
 #### 👯 Check out my recent followers
