@@ -11,9 +11,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (today)
+- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (1 day ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 week ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 week ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (2 weeks ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (2 weeks ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 weeks ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (2 weeks ago)
@@ -33,13 +33,13 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (3 weeks ago)
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (3 weeks ago)
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (3 weeks ago)
-- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (3 weeks ago)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (3 weeks ago)
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (3 weeks ago)
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (4 weeks ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  (4 weeks ago)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (1 day ago)
+- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (2 days ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (2 weeks ago)
 
 #### 👯 Check out my recent followers
