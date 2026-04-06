@@ -11,23 +11,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (4 days ago)
+- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (5 days ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 week ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (2 weeks ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (2 weeks ago)
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (2 weeks ago)
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (3 weeks ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (3 weeks ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 weeks ago)
-- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (3 weeks ago)
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (4 weeks ago)
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (4 weeks ago)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (4 weeks ago)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (4 weeks ago)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (4 weeks ago)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (4 weeks ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (4 weeks ago)
-- [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (4 weeks ago)
-- [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (4 weeks ago)
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (4 weeks ago)
+- [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (1 month ago)
+- [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (1 month ago)
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (1 month ago)
 - [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (1 month ago)
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 month ago)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 month ago)
@@ -39,8 +39,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (5 days ago)
-- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (2 weeks ago)
+- [happy760690/learnEnglish](https://github.com/happy760690/learnEnglish) -  (6 days ago)
+- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
