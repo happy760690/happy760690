@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (today)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (2 days ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (2 days ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (1 week ago)
@@ -35,7 +36,6 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 month ago)
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (1 month ago)
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (1 month ago)
-- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas: (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
