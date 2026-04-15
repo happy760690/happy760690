@@ -44,7 +44,6 @@
 #### 👯 Check out my recent followers
 
 - [BEPb](https://github.com/BEPb)
-- [helallao](https://github.com/helallao)
 - [chahe-dridi](https://github.com/chahe-dridi)
 - [dbunt1tled](https://github.com/dbunt1tled)
 - [kenan2016](https://github.com/kenan2016)
@@ -58,3 +57,4 @@
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
+- [mohammadhasanii](https://github.com/mohammadhasanii)
