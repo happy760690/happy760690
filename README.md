@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (today)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 week ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (1 week ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 week ago)
@@ -35,7 +36,6 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 month ago)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 month ago)
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (1 month ago)
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
