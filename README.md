@@ -43,6 +43,7 @@
 
 #### 👯 Check out my recent followers
 
+- [ephmo](https://github.com/ephmo)
 - [BEPb](https://github.com/BEPb)
 - [chahe-dridi](https://github.com/chahe-dridi)
 - [dbunt1tled](https://github.com/dbunt1tled)
@@ -57,4 +58,3 @@
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
-- [standardgalactic](https://github.com/standardgalactic)
