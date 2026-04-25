@@ -11,8 +11,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (4 days ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 week ago)
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (5 days ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 weeks ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (2 weeks ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (2 weeks ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (3 weeks ago)
@@ -39,7 +39,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (1 day ago)
+- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (2 days ago)
 
 #### 👯 Check out my recent followers
 
