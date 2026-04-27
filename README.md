@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (today)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 week ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 weeks ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (2 weeks ago)
@@ -35,7 +36,6 @@
 - [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (1 month ago)
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 month ago)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 month ago)
-- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
