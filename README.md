@@ -11,6 +11,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (today)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (2 days ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 week ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 weeks ago)
@@ -35,7 +36,6 @@
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (1 month ago)
 - [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (1 month ago)
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 month ago)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
