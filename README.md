@@ -11,6 +11,12 @@
 
 #### ⭐ Check out my recent stars
 
+- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (today)
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (today)
+- [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (today)
+- [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. (today)
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript. (today)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (today)
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (1 day ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (3 days ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 week ago)
@@ -30,12 +36,6 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (1 month ago)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (1 month ago)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (1 month ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform (1 month ago)
-- [IncomeStreamSurfer/claude-skills-collection](https://github.com/IncomeStreamSurfer/claude-skills-collection) - Collection of useful skills for Claude Code - AI agents, frontend design, and more (1 month ago)
-- [dani-z/frontend-design-skill-benchmark](https://github.com/dani-z/frontend-design-skill-benchmark) - Benchmark: frontend-design Claude skill vs baseline — design quality evals (100% vs 28% pass rate) (1 month ago)
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. (1 month ago)
-- [zouyaoji/vue-cesium](https://github.com/zouyaoji/vue-cesium) - 🎉 Vue 3.x components for CesiumJS. (1 month ago)
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
