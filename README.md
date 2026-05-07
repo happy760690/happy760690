@@ -6,6 +6,8 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add v3-crate-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (today)
+- [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (today)
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 year ago)
 - [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 years ago)
 
