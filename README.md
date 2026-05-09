@@ -6,8 +6,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add v3-crate-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (1 day ago)
-- [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (1 day ago)
+- [feat: add v3-crate-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (2 days ago)
+- [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (2 days ago)
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 year ago)
 - [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 years ago)
 
@@ -22,16 +22,16 @@
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 week ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (2 weeks ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (3 weeks ago)
-- [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (4 weeks ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (4 weeks ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (4 weeks ago)
+- [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (1 month ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 month ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (1 month ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 month ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (1 month ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (1 month ago)
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web. (1 month ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 month ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 month ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 months ago)
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (2 months ago)
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (2 months ago)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (2 months ago)
