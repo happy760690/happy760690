@@ -24,7 +24,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 month ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 month ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (1 month ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 month ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 month ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (1 month ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (2 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (2 months ago)
