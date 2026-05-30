@@ -13,12 +13,12 @@
 
 #### ⭐ Check out my recent stars
 
-- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (4 weeks ago)
-- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (4 weeks ago)
-- [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (4 weeks ago)
-- [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. (4 weeks ago)
-- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript. (4 weeks ago)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (4 weeks ago)
+- [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (1 month ago)
+- [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (1 month ago)
+- [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (1 month ago)
+- [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. (1 month ago)
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript. (1 month ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (1 month ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 month ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 month ago)
