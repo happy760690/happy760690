@@ -46,6 +46,7 @@
 
 #### 👯 Check out my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [chahe-dridi](https://github.com/chahe-dridi)
 - [dbunt1tled](https://github.com/dbunt1tled)
 - [kenan2016](https://github.com/kenan2016)
@@ -60,4 +61,3 @@
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Connor9994](https://github.com/Connor9994)
