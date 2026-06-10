@@ -22,7 +22,7 @@
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (1 month ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 month ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 month ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 month ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 months ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (2 months ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (2 months ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (2 months ago)
@@ -41,7 +41,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (4 weeks ago)
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (1 month ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (1 month ago)
 
 #### 👯 Check out my recent followers
