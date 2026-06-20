@@ -46,7 +46,6 @@
 
 #### 👯 Check out my recent followers
 
-- [chahe-dridi](https://github.com/chahe-dridi)
 - [dbunt1tled](https://github.com/dbunt1tled)
 - [kenan2016](https://github.com/kenan2016)
 - [RichardTang-Aden](https://github.com/RichardTang-Aden)
@@ -61,3 +60,4 @@
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
+- [nullptrException100](https://github.com/nullptrException100)
