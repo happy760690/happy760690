@@ -20,7 +20,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript. (1 month ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (1 month ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 month ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (2 months ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (2 months ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (2 months ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (2 months ago)
