@@ -13,6 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (today)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (2 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (2 months ago)
 - [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (2 months ago)
@@ -37,7 +38,6 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (4 months ago)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (4 months ago)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (4 months ago)
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents. (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
