@@ -13,7 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (today)
+- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (1 day ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (2 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (2 months ago)
 - [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (2 months ago)
