@@ -13,6 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (today)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (4 days ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (2 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (2 months ago)
@@ -37,7 +38,6 @@
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (4 months ago)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (4 months ago)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️ (4 months ago)
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
