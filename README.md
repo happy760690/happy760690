@@ -13,6 +13,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (today)
+- [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (today)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (5 days ago)
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (6 days ago)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (1 week ago)
@@ -36,8 +38,6 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (4 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (4 months ago)
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally. (4 months ago)
-- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (4 months ago)
-- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
@@ -46,6 +46,7 @@
 
 #### 👯 Check out my recent followers
 
+- [pwnedroot](https://github.com/pwnedroot)
 - [dbunt1tled](https://github.com/dbunt1tled)
 - [kenan2016](https://github.com/kenan2016)
 - [RichardTang-Aden](https://github.com/RichardTang-Aden)
@@ -60,4 +61,3 @@
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Connor9994](https://github.com/Connor9994)
-- [nullptrException100](https://github.com/nullptrException100)
