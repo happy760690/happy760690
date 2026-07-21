@@ -13,10 +13,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (today)
-- [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (today)
-- [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (5 days ago)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (6 days ago)
+- [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (1 day ago)
+- [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (1 day ago)
+- [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (6 days ago)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (1 week ago)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (1 week ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (2 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (2 months ago)
