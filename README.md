@@ -13,8 +13,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (2 days ago)
-- [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (2 days ago)
+- [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (3 days ago)
+- [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (3 days ago)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (1 week ago)
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (1 week ago)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (1 week ago)
