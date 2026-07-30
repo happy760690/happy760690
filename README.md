@@ -13,8 +13,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
-- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (today)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
+- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (1 day ago)
 - [damoqiongqiu/demo-nextjs](https://github.com/damoqiongqiu/demo-nextjs) -  (1 week ago)
 - [damoqiongqiu/my-harness-flow](https://github.com/damoqiongqiu/my-harness-flow) -  (1 week ago)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (2 weeks ago)
@@ -32,7 +32,7 @@
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (3 months ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (3 months ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (3 months ago)
-- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (3 months ago)
+- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (4 months ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (4 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (4 months ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (4 months ago)
