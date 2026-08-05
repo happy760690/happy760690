@@ -6,17 +6,17 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add v3-create-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (2 months ago)
-- [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (2 months ago)
+- [feat: add v3-create-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (3 months ago)
+- [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (3 months ago)
 - [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 year ago)
 - [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (3 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (6 days ago)
-- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (6 days ago)
-- [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (2 weeks ago)
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (4 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
+- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (1 week ago)
+- [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (3 weeks ago)
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (3 weeks ago)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (3 weeks ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (3 months ago)
