@@ -8,7 +8,7 @@
 
 - [feat: add v3-create-crud skill](https://github.com/un-pany/v3-admin-vite/pull/274) on [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) (3 months ago)
 - [remove official account](https://github.com/happy760690/v3-admin-vite/pull/1) on [happy760690/v3-admin-vite](https://github.com/happy760690/v3-admin-vite) (3 months ago)
-- [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (1 year ago)
+- [加入i18n](https://github.com/un-pany/mobvue/pull/4) on [un-pany/mobvue](https://github.com/un-pany/mobvue) (2 years ago)
 - [test](https://github.com/duo-rs/duo/pull/15) on [duo-rs/duo](https://github.com/duo-rs/duo) (2 years ago)
 
 #### ⭐ Check out my recent stars
