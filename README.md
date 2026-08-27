@@ -13,7 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (1 day ago)
+- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (2 days ago)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (3 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 weeks ago)
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (4 weeks ago)
@@ -26,7 +26,7 @@
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. (3 months ago)
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript. (3 months ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 months ago)
-- [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (3 months ago)
+- [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (4 months ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (4 months ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (4 months ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (4 months ago)
