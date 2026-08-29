@@ -13,8 +13,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (3 days ago)
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (3 weeks ago)
+- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (4 days ago)
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (4 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (1 month ago)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (1 month ago)
@@ -32,7 +32,7 @@
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (4 months ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (4 months ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (4 months ago)
-- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (4 months ago)
+- [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (5 months ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (5 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (5 months ago)
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (5 months ago)
