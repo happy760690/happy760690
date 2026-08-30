@@ -13,7 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (4 days ago)
+- [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (5 days ago)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (4 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k&#43; ⭐）完整汉化 &#43; 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活 (1 month ago)
