@@ -46,7 +46,6 @@
 
 #### 👯 Check out my recent followers
 
-- [webbrain-one](https://github.com/webbrain-one)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [pwnedroot](https://github.com/pwnedroot)
 - [dbunt1tled](https://github.com/dbunt1tled)
@@ -61,3 +60,4 @@
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
+- [standardgalactic](https://github.com/standardgalactic)
