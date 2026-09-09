@@ -13,6 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (today)
 - [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses. (1 day ago)
 - [kimmking/gopy](https://github.com/kimmking/gopy) -  (1 day ago)
 - [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (2 weeks ago)
@@ -37,7 +38,6 @@
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (5 months ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (5 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (5 months ago)
-- [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster. (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
