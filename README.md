@@ -13,7 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 week ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 week ago)
 - [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (3 weeks ago)
 - [loopx-project/loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. (3 weeks ago)
 - [kimmking/gopy](https://github.com/kimmking/gopy) -  (3 weeks ago)
