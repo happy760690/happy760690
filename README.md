@@ -15,15 +15,15 @@
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (2 weeks ago)
 - [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (4 weeks ago)
-- [loopx-project/loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. (4 weeks ago)
-- [kimmking/gopy](https://github.com/kimmking/gopy) -  (4 weeks ago)
+- [loopx-project/loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. (1 month ago)
+- [kimmking/gopy](https://github.com/kimmking/gopy) -  (1 month ago)
 - [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (1 month ago)
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. (2 months ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 months ago)
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（250k&#43; ⭐）完整汉化 &#43; 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活 (2 months ago)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (2 months ago)
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (2 months ago)
-- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (2 months ago)
+- [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (3 months ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (5 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (5 months ago)
 - [wevm/wagmi](https://github.com/wevm/wagmi) - Reactive primitives for Ethereum apps (5 months ago)
@@ -33,7 +33,7 @@
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI） (5 months ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (5 months ago)
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (5 months ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (5 months ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (6 months ago)
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (6 months ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (6 months ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (6 months ago)
@@ -42,7 +42,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (1 week ago)
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (4 months ago)
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (5 months ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (5 months ago)
 
 #### 👯 Check out my recent followers
