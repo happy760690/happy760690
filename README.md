@@ -14,7 +14,7 @@
 #### ⭐ Check out my recent stars
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (2 weeks ago)
-- [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (4 weeks ago)
+- [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (1 month ago)
 - [loopx-project/loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. (1 month ago)
 - [kimmking/gopy](https://github.com/kimmking/gopy) -  (1 month ago)
 - [pany-ang/javascript-to-go-cheat-sheet](https://github.com/pany-ang/javascript-to-go-cheat-sheet) - 《JavaScript 转 Go 作弊码》适合前端工程师快速转 Go Web 后端工程师 (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (today)
+- [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (1 day ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (5 months ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (5 months ago)
 
