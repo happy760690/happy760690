@@ -22,7 +22,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 months ago)
 - [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（250k&#43; ⭐）完整汉化 &#43; 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活 (2 months ago)
 - [damoqiongqiu/MindMark](https://github.com/damoqiongqiu/MindMark) - 🚀🚀🚀MindMark（心印）是一款基于 SpringAI 的 RAG 系统，可以和基于 Spring 体系的业务系统进行无缝集成。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。 (2 months ago)
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (2 months ago)
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. (3 months ago)
 - [Terry-Mao/AICodingFlow](https://github.com/Terry-Mao/AICodingFlow) - Setup a AI Coding Flow (3 months ago)
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰 (5 months ago)
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum (5 months ago)
@@ -41,8 +41,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/vercel-blog](https://github.com/glitzma/vercel-blog) -  (2 days ago)
-- [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (3 days ago)
+- [glitzma/vercel-blog](https://github.com/glitzma/vercel-blog) -  (3 days ago)
+- [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (4 days ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (5 months ago)
 - [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (5 months ago)
 
