@@ -13,7 +13,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (3 weeks ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (4 weeks ago)
 - [zmccyy/ZCode--CLI--agent](https://github.com/zmccyy/ZCode--CLI--agent) - 以Claude code为原型自研设计的agent框架,尽力了 (1 month ago)
 - [loopx-project/loopx](https://github.com/loopx-project/loopx) - Local-first TypeScript control plane and research workbench for long-horizon agents and teams. Durable goals, governed collaboration, and cited trajectory analysis. (1 month ago)
 - [kimmking/gopy](https://github.com/kimmking/gopy) -  (1 month ago)
@@ -37,14 +37,14 @@
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -  (6 months ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (6 months ago)
 - [tubexchat/fake-claude-code](https://github.com/tubexchat/fake-claude-code) - 基于Claude Code 泄露源码，”国产自主创新“项目 (6 months ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (6 months ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [glitzma/vercel-blog](https://github.com/glitzma/vercel-blog) -  (4 days ago)
+- [glitzma/vercel-blog](https://github.com/glitzma/vercel-blog) -  (5 days ago)
 - [glitzma/next-blog-new](https://github.com/glitzma/next-blog-new) -  (1 week ago)
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板 (5 months ago)
-- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (5 months ago)
+- [happy760690/nextjs](https://github.com/happy760690/nextjs) - 基于 Next.js 官方教程 构建的全栈财务仪表盘应用，涵盖了 Next.js App Router 的核心功能实践。 (6 months ago)
 
 #### 👯 Check out my recent followers
 
