@@ -46,7 +46,6 @@
 
 #### 👯 Check out my recent followers
 
-- [0vm](https://github.com/0vm)
 - [kpopdev](https://github.com/kpopdev)
 - [gaqx](https://github.com/gaqx)
 - [arvelquigley99](https://github.com/arvelquigley99)
@@ -61,3 +60,4 @@
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
+- [mohammadhasanii](https://github.com/mohammadhasanii)
