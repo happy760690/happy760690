@@ -48,7 +48,6 @@
 
 - [kpopdev](https://github.com/kpopdev)
 - [gaqx](https://github.com/gaqx)
-- [arvelquigley99](https://github.com/arvelquigley99)
 - [pwnedroot](https://github.com/pwnedroot)
 - [dbunt1tled](https://github.com/dbunt1tled)
 - [kenan2016](https://github.com/kenan2016)
@@ -61,3 +60,4 @@
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
+- [standardgalactic](https://github.com/standardgalactic)
