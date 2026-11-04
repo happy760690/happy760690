@@ -46,6 +46,7 @@
 
 #### 👯 Check out my recent followers
 
+- [0vm](https://github.com/0vm)
 - [kpopdev](https://github.com/kpopdev)
 - [gaqx](https://github.com/gaqx)
 - [pwnedroot](https://github.com/pwnedroot)
@@ -60,4 +61,3 @@
 - [maicro24](https://github.com/maicro24)
 - [StefanFlorian94](https://github.com/StefanFlorian94)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
-- [standardgalactic](https://github.com/standardgalactic)
